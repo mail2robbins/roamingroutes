@@ -27,7 +27,7 @@ function App() {
       </header> */}
 
       <main>
-        <h1>Discover the World with Us</h1>
+        <h1>Roaming-Routes: Discover the World with Us</h1>
         <p>
           Welcome to Roaming-Routes, your ultimate source for travel
           inspiration, tips, and stories. Join us as we explore the most
@@ -40,7 +40,7 @@ function App() {
           <ul>
             <li>
               <h3>
-                <h4 href="#">The Ultimate Guide to Hiking in the Swiss Alps</h4>
+                <h4>The Ultimate Guide to Hiking in the Swiss Alps</h4>
               </h3>
               <p>
                 Discover the breathtaking beauty of the Swiss Alps with our
@@ -60,7 +60,7 @@ function App() {
             </li>
             <li>
               <h3>
-                <a href="#">Uncovering the Hidden Gems of Tulum, Mexico</a>
+                <h4>Uncovering the Hidden Gems of Tulum, Mexico</h4>
               </h3>
               <p>
                 Explore the lesser-known spots in Tulum, from secret cenotes to
@@ -81,9 +81,7 @@ function App() {
             </li>
             <li>
               <h3>
-                <a href="#">
-                  Tips for Planning a Road Trip Across the United States
-                </a>
+                <h4>Tips for Planning a Road Trip Across the United States</h4>
               </h3>
               <p>
                 Embark on an epic road trip across the U.S. with our expert
